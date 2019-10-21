@@ -1,3 +1,3 @@
-# Changelog for youtube-new
+# Changelog for youtube-util
 
 ## Unreleased changes
